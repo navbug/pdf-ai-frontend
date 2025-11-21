@@ -4,7 +4,7 @@ A full-stack application that validates PDF documents against custom compliance 
 
 ## 📸 Screenshot
 
-
+<img width="1919" height="1079" alt="Screenshot 2025-11-21 125043" src="https://github.com/user-attachments/assets/f4340334-6ec3-429c-a8b8-e2c4f4fa22a2" />
 
 ## 🚀 Quick Start
 
