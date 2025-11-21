@@ -58,7 +58,7 @@ Visit: `http://localhost:5173`
 
 | Frontend | Backend |
 |----------|---------|
-| React 18 | Node.js |
+| React | Node.js |
 | Vite | Express |
 | Tailwind CSS | Multer |
 | Lucide Icons | Gemini AI |
